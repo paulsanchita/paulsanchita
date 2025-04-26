@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Sanchita Paul, a Data Science & Machine Learning Aspirant.
-- 🌱 I’m currently working with Data Science, Web Technologies , Software Development and Machine Learning.
-- 💞️ Looking for opportunities on development of latest Web Technologies and Data Analytics.
-- 📫 Connect with me at: paul.sanchita0411@gmail.com
-- 😄 Pronouns: She/Her
+👋 Hi, I’m Sanchita Paul
+I'm a passionate technologist and AI/ML aspirant with a solid foundation in Computer Science and a drive to create meaningful, data-powered solutions.
+
+🌱 Currently exploring the intersections of Data Science, Machine Learning, and Web Development
+🚀 Dedicated to building scalable, user-centric solutions that bridge data and technology
+🔍 Fascinated by how intelligent systems can transform decision-making and everyday experiences
+💬 Actively seeking opportunities that blend innovation, analytics, and software craftsmanship
+📫 Let’s connect: paul.sanchita0411@gmail.com
+😄 Pronouns: She/Her
 
 <!---
 paulsanchita/paulsanchita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
