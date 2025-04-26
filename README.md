@@ -1,11 +1,11 @@
-👋 Hi, I’m Sanchita Paul
-I'm a passionate technologist and AI/ML aspirant with a solid foundation in Computer Science and a drive to create meaningful, data-powered solutions.
+👋 Hi, I’m Sanchita Paul <br>
+I'm a passionate technologist and AI/ML aspirant with a solid foundation in Computer Science and a drive to create meaningful, data-powered solutions. <br>
 
-🌱 Currently exploring the intersections of Data Science, Machine Learning, and Web Development
-🚀 Dedicated to building scalable, user-centric solutions that bridge data and technology
-🔍 Fascinated by how intelligent systems can transform decision-making and everyday experiences
-💬 Actively seeking opportunities that blend innovation, analytics, and software craftsmanship
-📫 Let’s connect: paul.sanchita0411@gmail.com
+🌱 Currently exploring the intersections of Data Science, Machine Learning, and Web Development <br>
+🚀 Dedicated to building scalable, user-centric solutions that bridge data and technology <br>
+🔍 Fascinated by how intelligent systems can transform decision-making and everyday experiences <br>
+💬 Actively seeking opportunities that blend innovation, analytics, and software craftsmanship <br>
+📫 Let’s connect: paul.sanchita0411@gmail.com <br>
 😄 Pronouns: She/Her
 
 <!---
